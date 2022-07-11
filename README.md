@@ -1,3 +1,6 @@
+# Requisitos
+Haría falta Apache y Servidor MYSQL, para instalar paquetes he utilizado composer y faltaría ejecutar el sql que he dejado adjuntado en la raíz del proyecto.
+
 # Juego de pruebas
 
 | Prueba | Resultado esperado | Resultado final |
